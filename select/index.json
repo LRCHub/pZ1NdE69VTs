@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "number one girl",
+  "base_artist": "ROSÉ",
+  "createdAt": "2025-12-29T09:01:38.893589Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Number One Girl [Bonus]",
+      "artist": "J.Howell",
+      "has_synced": true,
+      "path": "select/01_Number_One_Girl_[Bonus]_J.Howell.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Number One Girl",
+      "artist": "Glen Washington",
+      "has_synced": false,
+      "path": "select/02_Number_One_Girl_Glen_Washington.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Number One Girl",
+      "artist": "Ubay",
+      "has_synced": true,
+      "path": "select/03_Number_One_Girl_Ubay.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Number One Girl [Bonus]",
+      "artist": "J.Howell",
+      "has_synced": true,
+      "path": "select/04_Number_One_Girl_[Bonus]_J.Howell.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ROSÉ - number one girl (official music video)",
+      "artist": "ROSÉ",
+      "has_synced": false,
+      "path": "select/05_ROSÉ_-_number_one_girl_(official_music_video)_ROSÉ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "number one girl",
+      "artist": "ROSÉ",
+      "has_synced": true,
+      "path": "select/06_number_one_girl_ROSÉ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "number one girl",
+      "artist": "ROSÉ",
+      "has_synced": false,
+      "path": "select/07_number_one_girl_ROSÉ.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ROSÉ - number one girl (official music video)",
+      "artist": "ROSÉ",
+      "has_synced": false,
+      "path": "select/08_ROSÉ_-_number_one_girl_(official_music_video)_ROSÉ.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "number one girl",
+      "artist": "ROSÉ",
+      "has_synced": true,
+      "path": "select/09_number_one_girl_ROSÉ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Number One Girl",
+      "artist": "Rosé",
+      "has_synced": true,
+      "path": "select/10_Number_One_Girl_Rosé.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "number one girl",
+      "artist": "ROSÉ",
+      "has_synced": true,
+      "path": "select/11_number_one_girl_ROSÉ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "number one girl",
+      "artist": "ROSÉ",
+      "has_synced": false,
+      "path": "select/12_number_one_girl_ROSÉ.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "number one girl",
+      "artist": "Video • ROSÉ",
+      "has_synced": false,
+      "path": "select/13_number_one_girl_Video_•_ROSÉ.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "number one girl",
+      "artist": "ROSÉ",
+      "has_synced": true,
+      "path": "select/14_number_one_girl_ROSÉ.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "number one girl",
+      "artist": "ROSÉ",
+      "has_synced": true,
+      "path": "select/15_number_one_girl_ROSÉ.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "number one girl",
+      "artist": "Rose",
+      "has_synced": true,
+      "path": "select/16_number_one_girl_Rose.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "number one girl",
+      "artist": "Song",
+      "has_synced": true,
+      "path": "select/17_number_one_girl_Song.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "number one girl",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/18_number_one_girl_Various.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "number one girl",
+      "artist": "ROSÉ",
+      "has_synced": false,
+      "path": "select/pl_01_number_one_girl_ROSÉ.txt"
+    }
+  ]
+}
